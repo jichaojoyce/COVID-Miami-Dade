@@ -22,6 +22,7 @@ These results show the impact of controlling opportunities for transmission of t
 
 This page was updated on July 29, 2020.
 
+The Data folder contains the raw data and the calculation procedures. 
 References
 
 Pollán, Marina, et al. “Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study.” The Lancet (2020).
@@ -30,7 +31,6 @@ Viceconte, Giulio, and Nicola Petrosillo. “COVID-19 R0: Magic number or conund
 
 Liu, Ying, et al. “The reproductive number of COVID-19 is higher compared to SARS coronavirus.” Journal of travel medicine (2020).
 
-![Structure Pic](input&output.png)
 <a name="downloading"></a>
 
 ## Downloading
