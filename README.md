@@ -1,5 +1,6 @@
 # COVID-Miami-Dade
 ![Intro Pic](Predict-Miami.png)
+
 The updated daily prediction based on new infection data in Miami-Dade county. (This Figure was produced on July 29)
 ## Table of Contents
 1. [Description](#description)
